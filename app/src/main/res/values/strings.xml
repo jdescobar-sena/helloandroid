@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Colegioabc</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registrar">Registrar</string>
 </resources>
